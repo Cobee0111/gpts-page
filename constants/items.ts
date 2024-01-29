@@ -17,6 +17,12 @@ const GPTS_ITEMS = [
     CONTENT: "Take responsibility for exercising and eating habits that suit you. Do you want health? Then act.",
     LINK: "https://chat.openai.com/g/g-rai9SvJW2-king-kong-my-exercise-and-eating-helper",
   },
+  {
+    IMAGE_PATH: "/images/singbee.png",
+    TITLE: "노래하는 벌 - 음악(Pop)으로 영어공부",
+    CONTENT: "Pop을 한국어로 번역해줍니다. 좋아하는 Pop을 이해하면서 들어요!",
+    LINK: "https://chat.openai.com/g/g-qTlYEWS07-noraehaneun-beol-eumag-pop-euro-yeongeogongbu",
+  },
 ];
 
 export default GPTS_ITEMS;
