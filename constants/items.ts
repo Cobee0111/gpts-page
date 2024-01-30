@@ -29,6 +29,12 @@ const GPTS_ITEMS = [
     CONTENT: "Do you like K-pop? Let's study Korean while listening to music!",
     LINK: "https://chat.openai.com/g/g-5iMyP4Kla-learning-korean-with-k-pop",
   },
+  {
+    IMAGE_PATH: "/images/writer.png",
+    TITLE: "유튜브 스크립트(대본)를 만들어줍니다.",
+    CONTENT: "스크립트 작성에 난항을 겪고 있나요? 스크립트 작성하기 귀찮으신가요? 개인화된 내용으로 작성을 해줍니다. 한 번 이용해보세요.",
+    LINK: "https://chat.openai.com/g/g-u2XYlo82u-yutyubeu-seukeuribteu-daebon-reul-mandeuleojubnida",
+  },
 ];
 
 export default GPTS_ITEMS;
