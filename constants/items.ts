@@ -23,6 +23,12 @@ const GPTS_ITEMS = [
     CONTENT: "Pop을 한국어로 번역해줍니다. 좋아하는 Pop을 이해하면서 들어요!",
     LINK: "https://chat.openai.com/g/g-qTlYEWS07-noraehaneun-beol-eumag-pop-euro-yeongeogongbu",
   },
+  {
+    IMAGE_PATH: "/images/Ari.png",
+    TITLE: "Learning Korean with K-pop",
+    CONTENT: "Do you like K-pop? Let's study Korean while listening to music!",
+    LINK: "https://chat.openai.com/g/g-5iMyP4Kla-learning-korean-with-k-pop",
+  },
 ];
 
 export default GPTS_ITEMS;
