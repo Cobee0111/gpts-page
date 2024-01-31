@@ -35,6 +35,12 @@ const GPTS_ITEMS = [
     CONTENT: "스크립트 작성에 난항을 겪고 있나요? 스크립트 작성하기 귀찮으신가요? 개인화된 내용으로 작성을 해줍니다. 한 번 이용해보세요.",
     LINK: "https://chat.openai.com/g/g-u2XYlo82u-yutyubeu-seukeuribteu-daebon-reul-mandeuleojubnida",
   },
+  {
+    IMAGE_PATH: "/images/content.png",
+    TITLE: "My Content Expert",
+    CONTENT: "Easily consult and produce content.",
+    LINK: "https://chat.openai.com/g/g-MPFYG1Xv7-my-content-expert",
+  },
 ];
 
 export default GPTS_ITEMS;
