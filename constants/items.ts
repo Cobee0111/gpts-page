@@ -41,6 +41,12 @@ const GPTS_ITEMS = [
     CONTENT: "Easily consult and produce content.",
     LINK: "https://chat.openai.com/g/g-MPFYG1Xv7-my-content-expert",
   },
+  {
+    IMAGE_PATH: "/images/iconMaker.png",
+    TITLE: "Create Personalization Icon",
+    CONTENT: "Make an icon that I need.",
+    LINK: "https://chat.openai.com/g/g-D1JDhVyi7-create-personalization-icon",
+  },
 ];
 
 export default GPTS_ITEMS;
